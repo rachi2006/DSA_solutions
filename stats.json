@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
-    "GeeksForGeeks_Second_Largest": true
+    "GeeksForGeeks_Second_Largest": true,
+    "GeeksForGeeks_Print_Square": true
   },
   "activityHistory": {
-    "2026-07-18": 1
+    "2026-07-18": 2
   },
   "todayProblems": [
-    "Second Largest"
+    "Second Largest",
+    "Print Square"
   ]
 }
