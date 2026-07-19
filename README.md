@@ -6,3 +6,4 @@
 | 4 | [Right Angle Triangle Pattern](./GeeksForGeeks/Easy/Right%20Angle%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1?page=1&category=Java&sortBy=submissions) | Easy | 19 Jul 2026 | 09:20 pm |
 | 5 | [Learn to Comment](./GeeksForGeeks/Easy/Learn%20to%20Comment) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/learn-to-comment/1?page=1&category=Java&sortBy=submissions) | Easy | 19 Jul 2026 | 09:21 pm |
 | 6 | [Swap The Numbers](./GeeksForGeeks/Basic/Swap%20The%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/swap-the-numbers/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Jul 2026 | 09:30 pm |
+| 7 | [The FizzBuzz Program](./GeeksForGeeks/Easy/The%20FizzBuzz%20Program) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1?page=1&category=Java&sortBy=submissions) | Easy | 19 Jul 2026 | 09:42 pm |
