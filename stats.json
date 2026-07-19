@@ -1,29 +1,31 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-19",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 4,
     "medium": 0,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
     "GeeksForGeeks_Second_Largest": true,
     "GeeksForGeeks_Print_Square": true,
     "GeeksForGeeks_Multiplication_Table": true,
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
-    "GeeksForGeeks_Learn_to_Comment": true
+    "GeeksForGeeks_Learn_to_Comment": true,
+    "GeeksForGeeks_Swap_The_Numbers": true
   },
   "activityHistory": {
     "2026-07-18": 2,
-    "2026-07-19": 3
+    "2026-07-19": 4
   },
   "todayProblems": [
     "Multiplication Table",
     "Right Angle Triangle Pattern",
-    "Learn to Comment"
+    "Learn to Comment",
+    "Swap The Numbers"
   ]
 }
