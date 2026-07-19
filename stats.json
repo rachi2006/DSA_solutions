@@ -1,14 +1,14 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-19",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 5,
     "medium": 0,
     "hard": 0,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "GeeksForGeeks_Second_Largest": true,
@@ -17,17 +17,19 @@
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
     "GeeksForGeeks_Learn_to_Comment": true,
     "GeeksForGeeks_Swap_The_Numbers": true,
-    "GeeksForGeeks_The_FizzBuzz_Program": true
+    "GeeksForGeeks_The_FizzBuzz_Program": true,
+    "GeeksForGeeks_While_Loop": true
   },
   "activityHistory": {
     "2026-07-18": 2,
-    "2026-07-19": 5
+    "2026-07-19": 6
   },
   "todayProblems": [
     "Multiplication Table",
     "Right Angle Triangle Pattern",
     "Learn to Comment",
     "Swap The Numbers",
-    "The FizzBuzz Program"
+    "The FizzBuzz Program",
+    "While Loop"
   ]
 }
