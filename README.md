@@ -8,3 +8,4 @@
 | 6 | [Swap The Numbers](./GeeksForGeeks/Basic/Swap%20The%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/swap-the-numbers/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Jul 2026 | 09:30 pm |
 | 7 | [The FizzBuzz Program](./GeeksForGeeks/Easy/The%20FizzBuzz%20Program) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1?page=1&category=Java&sortBy=submissions) | Easy | 19 Jul 2026 | 09:42 pm |
 | 8 | [While Loop](./GeeksForGeeks/Basic/While%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/while-loop/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Jul 2026 | 09:54 pm |
+| 9 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Jul 2026 | 10:08 pm |
