@@ -10,3 +10,4 @@
 | 8 | [While Loop](./GeeksForGeeks/Basic/While%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/while-loop/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Jul 2026 | 09:54 pm |
 | 9 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Jul 2026 | 10:08 pm |
 | 10 | [Decision Making](./GeeksForGeeks/Basic/Decision%20Making) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/decision-making/1?page=1&category=Java&sortBy=submissions) | Basic | 20 Jul 2026 | 09:42 pm |
+| 11 | [Inverted Right Angle Triangle Pattern](./GeeksForGeeks/Basic/Inverted%20Right%20Angle%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1?page=1&category=Java&sortBy=submissions) | Basic | 20 Jul 2026 | 09:48 pm |

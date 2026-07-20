@@ -1,14 +1,14 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
     "medium": 0,
     "hard": 0,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "GeeksForGeeks_Second_Largest": true,
@@ -20,14 +20,16 @@
     "GeeksForGeeks_The_FizzBuzz_Program": true,
     "GeeksForGeeks_While_Loop": true,
     "GeeksForGeeks_Arithmetic_Operators": true,
-    "GeeksForGeeks_Decision_Making": true
+    "GeeksForGeeks_Decision_Making": true,
+    "GeeksForGeeks_Inverted_Right_Angle_Triangle_Pattern": true
   },
   "activityHistory": {
     "2026-07-18": 2,
     "2026-07-19": 7,
-    "2026-07-20": 1
+    "2026-07-20": 2
   },
   "todayProblems": [
-    "Decision Making"
+    "Decision Making",
+    "Inverted Right Angle Triangle Pattern"
   ]
 }
