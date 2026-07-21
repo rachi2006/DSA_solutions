@@ -20,3 +20,4 @@
 | 18 | [Java Switch Case statement](./GeeksForGeeks/Basic/Java%20Switch%20Case%20statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-switch-case-statement3529/1?page=1&category=Java&sortBy=submissions) | Basic | 21 Jul 2026 | 10:55 pm |
 | 19 | [Print Solid Square](./GeeksForGeeks/Basic/Print%20Solid%20Square) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-square-wall-1605682270/1?page=1&category=Java&sortBy=submissions) | Basic | 21 Jul 2026 | 10:58 pm |
 | 20 | [Print With Separator](./GeeksForGeeks/Basic/Print%20With%20Separator) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-with-separator/1?page=1&category=Java&sortBy=submissions) | Basic | 21 Jul 2026 | 11:00 pm |
+| 21 | [The Else Statement](./GeeksForGeeks/Basic/The%20Else%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-statement--115735/1?page=2&category=Java&sortBy=submissions) | Basic | 21 Jul 2026 | 11:02 pm |
