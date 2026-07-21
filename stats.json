@@ -1,14 +1,14 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-21",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 7
+    "basic": 8
   },
   "syncedProblems": {
     "GeeksForGeeks_Array_Traversal": true,
@@ -18,17 +18,19 @@
     "GeeksForGeeks_Convert_String_to_Lower_Case": true,
     "GeeksForGeeks_Type_Conversion": true,
     "GeeksForGeeks_Function_With_Return": true,
-    "GeeksForGeeks_Java_Switch_Case_statement": true
+    "GeeksForGeeks_Java_Switch_Case_statement": true,
+    "GeeksForGeeks_Print_Solid_Square": true
   },
   "activityHistory": {
     "2026-07-20": 3,
-    "2026-07-21": 5
+    "2026-07-21": 6
   },
   "todayProblems": [
     "The If Statement",
     "Convert String to Lower Case",
     "Type Conversion",
     "Function With Return",
-    "Java Switch Case statement"
+    "Java Switch Case statement",
+    "Print Solid Square"
   ]
 }
