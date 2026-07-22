@@ -26,3 +26,4 @@
 | 24 | [TypeCast And Double It](./GeeksForGeeks/Basic/TypeCast%20And%20Double%20It) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/typecast-and-double-it--153103/1?page=2&category=Java&sortBy=submissions) | Basic | 22 Jul 2026 | 11:04 pm |
 | 25 | [Switch Statement](./GeeksForGeeks/Basic/Switch%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/switch-statement/1?page=2&category=Java&sortBy=submissions) | Basic | 22 Jul 2026 | 11:16 pm |
 | 26 | [Right Angle Triangle 2](./GeeksForGeeks/Easy/Right%20Angle%20Triangle%202) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angle-triangle-2-1605689820--102106/1?page=2&category=Java&sortBy=submissions) | Easy | 22 Jul 2026 | 11:24 pm |
+| 27 | [Print With Space](./GeeksForGeeks/Basic/Print%20With%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-with-space/1?page=2&category=Java&sortBy=submissions) | Basic | 22 Jul 2026 | 11:28 pm |
