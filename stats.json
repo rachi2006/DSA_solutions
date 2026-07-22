@@ -1,11 +1,11 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-22",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 0,
     "hard": 0,
     "basic": 13
@@ -25,17 +25,19 @@
     "GeeksForGeeks_Even_Odd_Game": true,
     "GeeksForGeeks_Vowel_or_Not": true,
     "GeeksForGeeks_TypeCast_And_Double_It": true,
-    "GeeksForGeeks_Switch_Statement": true
+    "GeeksForGeeks_Switch_Statement": true,
+    "GeeksForGeeks_Right_Angle_Triangle_2": true
   },
   "activityHistory": {
     "2026-07-20": 3,
     "2026-07-21": 8,
-    "2026-07-22": 4
+    "2026-07-22": 5
   },
   "todayProblems": [
     "Even Odd Game",
     "Vowel or Not",
     "TypeCast And Double It",
-    "Switch Statement"
+    "Switch Statement",
+    "Right Angle Triangle 2"
   ]
 }
