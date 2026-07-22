@@ -22,3 +22,4 @@
 | 20 | [Print With Separator](./GeeksForGeeks/Basic/Print%20With%20Separator) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-with-separator/1?page=1&category=Java&sortBy=submissions) | Basic | 21 Jul 2026 | 11:00 pm |
 | 21 | [The Else Statement](./GeeksForGeeks/Basic/The%20Else%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-statement--115735/1?page=2&category=Java&sortBy=submissions) | Basic | 21 Jul 2026 | 11:02 pm |
 | 22 | [Even Odd Game](./GeeksForGeeks/Easy/Even%20Odd%20Game) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/even-odd-game--153136/1?page=2&category=Java&sortBy=submissions) | Easy | 22 Jul 2026 | 10:55 pm |
+| 23 | [Vowel or Not](./GeeksForGeeks/Basic/Vowel%20or%20Not) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/vowel-or-not0831/1?page=2&category=Java&sortBy=submissions) | Basic | 22 Jul 2026 | 11:01 pm |

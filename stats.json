@@ -1,14 +1,14 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 10
+    "basic": 11
   },
   "syncedProblems": {
     "GeeksForGeeks_Array_Traversal": true,
@@ -22,14 +22,16 @@
     "GeeksForGeeks_Print_Solid_Square": true,
     "GeeksForGeeks_Print_With_Separator": true,
     "GeeksForGeeks_The_Else_Statement": true,
-    "GeeksForGeeks_Even_Odd_Game": true
+    "GeeksForGeeks_Even_Odd_Game": true,
+    "GeeksForGeeks_Vowel_or_Not": true
   },
   "activityHistory": {
     "2026-07-20": 3,
     "2026-07-21": 8,
-    "2026-07-22": 1
+    "2026-07-22": 2
   },
   "todayProblems": [
-    "Even Odd Game"
+    "Even Odd Game",
+    "Vowel or Not"
   ]
 }
