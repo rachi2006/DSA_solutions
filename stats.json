@@ -1,11 +1,11 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-07-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 0,
     "hard": 0,
     "basic": 14
@@ -28,15 +28,17 @@
     "GeeksForGeeks_Switch_Statement": true,
     "GeeksForGeeks_Right_Angle_Triangle_2": true,
     "GeeksForGeeks_Print_With_Space": true,
-    "GeeksForGeeks_Common_Elements": true
+    "GeeksForGeeks_Common_Elements": true,
+    "GeeksForGeeks_Calculator": true
   },
   "activityHistory": {
     "2026-07-20": 3,
     "2026-07-21": 8,
     "2026-07-22": 6,
-    "2026-07-23": 1
+    "2026-07-23": 2
   },
   "todayProblems": [
-    "Common Elements"
+    "Common Elements",
+    "Calculator"
   ]
 }
