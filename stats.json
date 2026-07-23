@@ -1,14 +1,14 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-07-23",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 6,
     "medium": 0,
     "hard": 0,
-    "basic": 14
+    "basic": 15
   },
   "syncedProblems": {
     "GeeksForGeeks_Array_Traversal": true,
@@ -30,17 +30,19 @@
     "GeeksForGeeks_Print_With_Space": true,
     "GeeksForGeeks_Common_Elements": true,
     "GeeksForGeeks_Calculator": true,
-    "GeeksForGeeks_Data_Types_-_Java": true
+    "GeeksForGeeks_Data_Types_-_Java": true,
+    "GeeksForGeeks_Concatenate_Integers": true
   },
   "activityHistory": {
     "2026-07-20": 3,
     "2026-07-21": 8,
     "2026-07-22": 6,
-    "2026-07-23": 3
+    "2026-07-23": 4
   },
   "todayProblems": [
     "Common Elements",
     "Calculator",
-    "Data Types - Java"
+    "Data Types - Java",
+    "Concatenate Integers"
   ]
 }
