@@ -29,3 +29,4 @@
 | 27 | [Print With Space](./GeeksForGeeks/Basic/Print%20With%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-with-space/1?page=2&category=Java&sortBy=submissions) | Basic | 22 Jul 2026 | 11:28 pm |
 | 28 | [Common Elements](./GeeksForGeeks/Easy/Common%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/common-elements5420/1?page=2&category=Java&sortBy=submissions) | Easy | 23 Jul 2026 | 09:09 pm |
 | 29 | [Calculator](./GeeksForGeeks/Easy/Calculator) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/calculator--172632/1?page=2&category=Java&sortBy=submissions) | Easy | 23 Jul 2026 | 09:23 pm |
+| 30 | [Data Types - Java](./GeeksForGeeks/Easy/Data%20Types%20-%20Java) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/data-types-java/1?page=2&category=Java&sortBy=submissions) | Easy | 23 Jul 2026 | 09:25 pm |
