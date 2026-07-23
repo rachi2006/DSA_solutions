@@ -35,3 +35,4 @@
 | 33 | [nextLine and next](./GeeksForGeeks/Easy/nextLine%20and%20next) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nextline-and-next/1?page=2&category=Java&sortBy=submissions) | Easy | 23 Jul 2026 | 09:50 pm |
 | 34 | [Print Without Space](./GeeksForGeeks/Basic/Print%20Without%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-space--124240/1?page=2&category=Java&sortBy=submissions) | Basic | 23 Jul 2026 | 09:56 pm |
 | 35 | [Day before N days](./GeeksForGeeks/Easy/Day%20before%20N%20days) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/days-before-n-days/1?page=2&category=Java&sortBy=submissions) | Easy | 23 Jul 2026 | 10:00 pm |
+| 36 | [AP Term](./GeeksForGeeks/Easy/AP%20Term) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ap-term--150919/1?page=2&category=Java&sortBy=submissions) | Easy | 23 Jul 2026 | 10:02 pm |

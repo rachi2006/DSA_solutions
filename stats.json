@@ -1,11 +1,11 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-07-23",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 0,
     "hard": 0,
     "basic": 16
@@ -35,13 +35,14 @@
     "GeeksForGeeks_Java_Arrays_|_Set_1": true,
     "GeeksForGeeks_nextLine_and_next": true,
     "GeeksForGeeks_Print_Without_Space": true,
-    "GeeksForGeeks_Day_before_N_days": true
+    "GeeksForGeeks_Day_before_N_days": true,
+    "GeeksForGeeks_AP_Term": true
   },
   "activityHistory": {
     "2026-07-20": 3,
     "2026-07-21": 8,
     "2026-07-22": 6,
-    "2026-07-23": 8
+    "2026-07-23": 9
   },
   "todayProblems": [
     "Common Elements",
@@ -51,6 +52,7 @@
     "Java Arrays | Set 1",
     "nextLine and next",
     "Print Without Space",
-    "Day before N days"
+    "Day before N days",
+    "AP Term"
   ]
 }
