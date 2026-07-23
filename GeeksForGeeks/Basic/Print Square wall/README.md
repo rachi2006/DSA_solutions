@@ -1,0 +1,19 @@
+# Print Square wall
+
+## Difficulty: Basic
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/print-square-wall-1605682270--111211/1?page=3&category=Java&sortBy=submissions)
+
+## Solved On
+23 Jul 2026 at 10:13 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/print-square-wall-1605682270--111211/1?page=3&category=Java&sortBy=submissions">Print Square wall</a></h2><h3>Difficulty Level: Basic</h3><hr><p><span style="font-size: 18px;">Given an integer&nbsp;<strong>n,&nbsp;</strong>&nbsp;write a program to print the square wall of size&nbsp;<strong>n&nbsp;</strong>using a single loop and string multiplication.&nbsp;</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>n = 5
+<strong>Output:
+</strong>* * * * *<br>* * * * *<br>* * * * *<br>* * * * *<br>* * * * *
+<strong>Explanation: </strong>Its perfect square wall. </span></pre>
+<pre><span style="font-size: 18px;"><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Input: </strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">n = 4<br></span></span><span style="font-size: 18px;"><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Output:<br></strong>* * * * <br>* * * * <br>* * * * <br>* * * * <br><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Explanation: </strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Its perfect square wall. </span></span></pre>
