@@ -33,3 +33,4 @@
 | 31 | [Concatenate Integers](./GeeksForGeeks/Basic/Concatenate%20Integers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/concatenate-integers/1?page=2&category=Java&sortBy=submissions) | Basic | 23 Jul 2026 | 09:27 pm |
 | 32 | [Java Arrays | Set 1](./GeeksForGeeks/Easy/Java%20Arrays%20%7C%20Set%201) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-arrays-set-11354/1?page=2&category=Java&sortBy=submissions) | Easy | 23 Jul 2026 | 09:44 pm |
 | 33 | [nextLine and next](./GeeksForGeeks/Easy/nextLine%20and%20next) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nextline-and-next/1?page=2&category=Java&sortBy=submissions) | Easy | 23 Jul 2026 | 09:50 pm |
+| 34 | [Print Without Space](./GeeksForGeeks/Basic/Print%20Without%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-space--124240/1?page=2&category=Java&sortBy=submissions) | Basic | 23 Jul 2026 | 09:56 pm |
