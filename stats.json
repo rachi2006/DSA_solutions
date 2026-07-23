@@ -1,11 +1,11 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-07-23",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 0,
     "hard": 0,
     "basic": 15
@@ -32,19 +32,21 @@
     "GeeksForGeeks_Calculator": true,
     "GeeksForGeeks_Data_Types_-_Java": true,
     "GeeksForGeeks_Concatenate_Integers": true,
-    "GeeksForGeeks_Java_Arrays_|_Set_1": true
+    "GeeksForGeeks_Java_Arrays_|_Set_1": true,
+    "GeeksForGeeks_nextLine_and_next": true
   },
   "activityHistory": {
     "2026-07-20": 3,
     "2026-07-21": 8,
     "2026-07-22": 6,
-    "2026-07-23": 5
+    "2026-07-23": 6
   },
   "todayProblems": [
     "Common Elements",
     "Calculator",
     "Data Types - Java",
     "Concatenate Integers",
-    "Java Arrays | Set 1"
+    "Java Arrays | Set 1",
+    "nextLine and next"
   ]
 }
