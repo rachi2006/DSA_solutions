@@ -40,3 +40,4 @@
 | 38 | [Print Square wall](./GeeksForGeeks/Basic/Print%20Square%20wall) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-square-wall-1605682270--111211/1?page=3&category=Java&sortBy=submissions) | Basic | 23 Jul 2026 | 10:13 pm |
 | 39 | [Print Statement](./GeeksForGeeks/Basic/Print%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-statement--112959/1?page=3&category=Java&sortBy=submissions) | Basic | 23 Jul 2026 | 10:17 pm |
 | 40 | [Print Without Newline](./GeeksForGeeks/Basic/Print%20Without%20Newline) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-newline-1605265372/1?page=3&category=Java&sortBy=submissions) | Basic | 23 Jul 2026 | 10:20 pm |
+| 41 | [BFS of graph](./GeeksForGeeks/Easy/BFS%20of%20graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?page=1&category=Graph&sortBy=submissions) | Easy | 24 Jul 2026 | 03:30 pm |
