@@ -42,3 +42,4 @@
 | 40 | [Print Without Newline](./GeeksForGeeks/Basic/Print%20Without%20Newline) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-newline-1605265372/1?page=3&category=Java&sortBy=submissions) | Basic | 23 Jul 2026 | 10:20 pm |
 | 41 | [BFS of graph](./GeeksForGeeks/Easy/BFS%20of%20graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?page=1&category=Graph&sortBy=submissions) | Easy | 24 Jul 2026 | 03:30 pm |
 | 42 | [Function With No Arguments](./GeeksForGeeks/Basic/Function%20With%20No%20Arguments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/function-with-no-arguments-1605703188/1?page=2&category=Java&sortBy=submissions) | Basic | 24 Jul 2026 | 10:30 pm |
+| 43 | [Bitwise Operators](./GeeksForGeeks/Basic/Bitwise%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bitwise-operators-1597314674--135255/1?page=1&category=Java&sortBy=submissions) | Basic | 24 Jul 2026 | 10:31 pm |

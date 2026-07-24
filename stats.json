@@ -1,14 +1,14 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 11,
     "medium": 0,
     "hard": 0,
-    "basic": 21
+    "basic": 22
   },
   "syncedProblems": {
     "GeeksForGeeks_Array_Traversal": true,
@@ -42,17 +42,19 @@
     "GeeksForGeeks_Print_Statement": true,
     "GeeksForGeeks_Print_Without_Newline": true,
     "GeeksForGeeks_BFS_of_graph": true,
-    "GeeksForGeeks_Function_With_No_Arguments": true
+    "GeeksForGeeks_Function_With_No_Arguments": true,
+    "GeeksForGeeks_Bitwise_Operators": true
   },
   "activityHistory": {
     "2026-07-20": 3,
     "2026-07-21": 8,
     "2026-07-22": 6,
     "2026-07-23": 13,
-    "2026-07-24": 2
+    "2026-07-24": 3
   },
   "todayProblems": [
     "BFS of graph",
-    "Function With No Arguments"
+    "Function With No Arguments",
+    "Bitwise Operators"
   ]
 }
