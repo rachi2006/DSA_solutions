@@ -45,3 +45,4 @@
 | 43 | [Bitwise Operators](./GeeksForGeeks/Basic/Bitwise%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bitwise-operators-1597314674--135255/1?page=1&category=Java&sortBy=submissions) | Basic | 24 Jul 2026 | 10:31 pm |
 | 44 | [Table Difference](./GeeksForGeeks/Basic/Table%20Difference) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/table-difference/1?page=2&category=Java&sortBy=submissions) | Basic | 24 Jul 2026 | 10:37 pm |
 | 45 | [Function With Arguments](./GeeksForGeeks/Basic/Function%20With%20Arguments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/function-with-arguments-1605762259/1?page=3&category=Java&sortBy=submissions) | Basic | 24 Jul 2026 | 10:47 pm |
+| 46 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 25 Jul 2026 | 05:43 pm |

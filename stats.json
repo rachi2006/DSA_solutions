@@ -1,12 +1,12 @@
 {
-  "totalSolved": 35,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-07-24",
-  "todayCount": 5,
+  "totalSolved": 36,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-07-25",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 24
   },
@@ -45,20 +45,18 @@
     "GeeksForGeeks_Function_With_No_Arguments": true,
     "GeeksForGeeks_Bitwise_Operators": true,
     "GeeksForGeeks_Table_Difference": true,
-    "GeeksForGeeks_Function_With_Arguments": true
+    "GeeksForGeeks_Function_With_Arguments": true,
+    "LeetCode_Add_Two_Numbers": true
   },
   "activityHistory": {
     "2026-07-20": 3,
     "2026-07-21": 8,
     "2026-07-22": 6,
     "2026-07-23": 13,
-    "2026-07-24": 5
+    "2026-07-24": 5,
+    "2026-07-25": 1
   },
   "todayProblems": [
-    "BFS of graph",
-    "Function With No Arguments",
-    "Bitwise Operators",
-    "Table Difference",
-    "Function With Arguments"
+    "Add Two Numbers"
   ]
 }
