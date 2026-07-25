@@ -1,12 +1,12 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-07-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 24
   },
@@ -46,7 +46,8 @@
     "GeeksForGeeks_Bitwise_Operators": true,
     "GeeksForGeeks_Table_Difference": true,
     "GeeksForGeeks_Function_With_Arguments": true,
-    "LeetCode_Add_Two_Numbers": true
+    "LeetCode_Add_Two_Numbers": true,
+    "GeeksForGeeks_Sort_0s,_1s_and_2s": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -54,9 +55,10 @@
     "2026-07-22": 6,
     "2026-07-23": 13,
     "2026-07-24": 5,
-    "2026-07-25": 1
+    "2026-07-25": 2
   },
   "todayProblems": [
-    "Add Two Numbers"
+    "Add Two Numbers",
+    "Sort 0s, 1s and 2s"
   ]
 }

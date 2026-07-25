@@ -46,3 +46,4 @@
 | 44 | [Table Difference](./GeeksForGeeks/Basic/Table%20Difference) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/table-difference/1?page=2&category=Java&sortBy=submissions) | Basic | 24 Jul 2026 | 10:37 pm |
 | 45 | [Function With Arguments](./GeeksForGeeks/Basic/Function%20With%20Arguments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/function-with-arguments-1605762259/1?page=3&category=Java&sortBy=submissions) | Basic | 24 Jul 2026 | 10:47 pm |
 | 46 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 25 Jul 2026 | 05:43 pm |
+| 47 | [Sort 0s, 1s and 2s](./GeeksForGeeks/Medium/Sort%200s%2C%201s%20and%202s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?page=1&category=Arrays&sortBy=submissions) | Medium | 25 Jul 2026 | 05:50 pm |
