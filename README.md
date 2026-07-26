@@ -47,3 +47,4 @@
 | 45 | [Function With Arguments](./GeeksForGeeks/Basic/Function%20With%20Arguments) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/function-with-arguments-1605762259/1?page=3&category=Java&sortBy=submissions) | Basic | 24 Jul 2026 | 10:47 pm |
 | 46 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 25 Jul 2026 | 05:43 pm |
 | 47 | [Sort 0s, 1s and 2s](./GeeksForGeeks/Medium/Sort%200s%2C%201s%20and%202s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?page=1&category=Arrays&sortBy=submissions) | Medium | 25 Jul 2026 | 05:50 pm |
+| 48 | [Next Prime Number](./GeeksForGeeks/Medium/Next%20Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-prime-number/1?page=3&category=Java&sortBy=submissions) | Medium | 26 Jul 2026 | 01:54 pm |

@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
-  "currentStreak": 6,
-  "maxStreak": 6,
-  "lastSyncDate": "2026-07-25",
-  "todayCount": 2,
+  "totalSolved": 38,
+  "currentStreak": 7,
+  "maxStreak": 7,
+  "lastSyncDate": "2026-07-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 24
   },
@@ -47,7 +47,8 @@
     "GeeksForGeeks_Table_Difference": true,
     "GeeksForGeeks_Function_With_Arguments": true,
     "LeetCode_Add_Two_Numbers": true,
-    "GeeksForGeeks_Sort_0s,_1s_and_2s": true
+    "GeeksForGeeks_Sort_0s,_1s_and_2s": true,
+    "GeeksForGeeks_Next_Prime_Number": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -55,10 +56,10 @@
     "2026-07-22": 6,
     "2026-07-23": 13,
     "2026-07-24": 5,
-    "2026-07-25": 2
+    "2026-07-25": 2,
+    "2026-07-26": 1
   },
   "todayProblems": [
-    "Add Two Numbers",
-    "Sort 0s, 1s and 2s"
+    "Next Prime Number"
   ]
 }
