@@ -53,3 +53,4 @@
 | 51 | [Deque Implementation](./GeeksForGeeks/Easy/Deque%20Implementation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/deque-implementations/1?page=3&category=Java&sortBy=submissions) | Easy | 26 Jul 2026 | 02:01 pm |
 | 52 | [Java Input/Output](./GeeksForGeeks/Basic/Java%20Input/Output) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-inputoutput0118/1?page=3&category=Java&sortBy=submissions) | Basic | 26 Jul 2026 | 02:04 pm |
 | 53 | [Bitwise Shift Operators](./GeeksForGeeks/Basic/Bitwise%20Shift%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bitwise-right-shift/1?page=3&category=Java&sortBy=submissions) | Basic | 26 Jul 2026 | 02:09 pm |
+| 54 | [Delete alternate characters](./GeeksForGeeks/Basic/Delete%20alternate%20characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-delete-alternate-characters4036/1?page=3&category=Java&sortBy=submissions) | Basic | 26 Jul 2026 | 02:16 pm |
