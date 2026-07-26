@@ -51,3 +51,4 @@
 | 49 | [Print GeeksForGeeks](./GeeksForGeeks/Easy/Print%20GeeksForGeeks) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-geeksforgeeks--141628/1?page=3&category=Java&sortBy=submissions) | Easy | 26 Jul 2026 | 01:55 pm |
 | 50 | [The Else if Statement](./GeeksForGeeks/Basic/The%20Else%20if%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-if-statement/1?page=3&category=Java&sortBy=submissions) | Basic | 26 Jul 2026 | 01:57 pm |
 | 51 | [Deque Implementation](./GeeksForGeeks/Easy/Deque%20Implementation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/deque-implementations/1?page=3&category=Java&sortBy=submissions) | Easy | 26 Jul 2026 | 02:01 pm |
+| 52 | [Java Input/Output](./GeeksForGeeks/Basic/Java%20Input/Output) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-inputoutput0118/1?page=3&category=Java&sortBy=submissions) | Basic | 26 Jul 2026 | 02:04 pm |

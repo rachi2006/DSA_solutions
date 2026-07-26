@@ -1,14 +1,14 @@
 {
-  "totalSolved": 41,
+  "totalSolved": 42,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-07-26",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 13,
     "medium": 3,
     "hard": 0,
-    "basic": 25
+    "basic": 26
   },
   "syncedProblems": {
     "GeeksForGeeks_Array_Traversal": true,
@@ -51,7 +51,8 @@
     "GeeksForGeeks_Next_Prime_Number": true,
     "GeeksForGeeks_Print_GeeksForGeeks": true,
     "GeeksForGeeks_The_Else_if_Statement": true,
-    "GeeksForGeeks_Deque_Implementation": true
+    "GeeksForGeeks_Deque_Implementation": true,
+    "GeeksForGeeks_Java_Input/Output": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -60,12 +61,13 @@
     "2026-07-23": 13,
     "2026-07-24": 5,
     "2026-07-25": 2,
-    "2026-07-26": 4
+    "2026-07-26": 5
   },
   "todayProblems": [
     "Next Prime Number",
     "Print GeeksForGeeks",
     "The Else if Statement",
-    "Deque Implementation"
+    "Deque Implementation",
+    "Java Input/Output"
   ]
 }
