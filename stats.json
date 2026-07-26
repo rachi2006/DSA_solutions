@@ -1,14 +1,14 @@
 {
-  "totalSolved": 39,
+  "totalSolved": 40,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-07-26",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 12,
     "medium": 3,
     "hard": 0,
-    "basic": 24
+    "basic": 25
   },
   "syncedProblems": {
     "GeeksForGeeks_Array_Traversal": true,
@@ -49,7 +49,8 @@
     "LeetCode_Add_Two_Numbers": true,
     "GeeksForGeeks_Sort_0s,_1s_and_2s": true,
     "GeeksForGeeks_Next_Prime_Number": true,
-    "GeeksForGeeks_Print_GeeksForGeeks": true
+    "GeeksForGeeks_Print_GeeksForGeeks": true,
+    "GeeksForGeeks_The_Else_if_Statement": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -58,10 +59,11 @@
     "2026-07-23": 13,
     "2026-07-24": 5,
     "2026-07-25": 2,
-    "2026-07-26": 2
+    "2026-07-26": 3
   },
   "todayProblems": [
     "Next Prime Number",
-    "Print GeeksForGeeks"
+    "Print GeeksForGeeks",
+    "The Else if Statement"
   ]
 }
