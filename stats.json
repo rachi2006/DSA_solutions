@@ -1,11 +1,11 @@
 {
-  "totalSolved": 44,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-07-26",
-  "todayCount": 7,
+  "totalSolved": 45,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-07-27",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 3,
     "hard": 0,
     "basic": 28
@@ -54,7 +54,8 @@
     "GeeksForGeeks_Deque_Implementation": true,
     "GeeksForGeeks_Java_Input/Output": true,
     "GeeksForGeeks_Bitwise_Shift_Operators": true,
-    "GeeksForGeeks_Delete_alternate_characters": true
+    "GeeksForGeeks_Delete_alternate_characters": true,
+    "GeeksForGeeks_All_Prime_Factors_in_Sorted_Order": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -63,15 +64,10 @@
     "2026-07-23": 13,
     "2026-07-24": 5,
     "2026-07-25": 2,
-    "2026-07-26": 7
+    "2026-07-26": 7,
+    "2026-07-27": 1
   },
   "todayProblems": [
-    "Next Prime Number",
-    "Print GeeksForGeeks",
-    "The Else if Statement",
-    "Deque Implementation",
-    "Java Input/Output",
-    "Bitwise Shift Operators",
-    "Delete alternate characters"
+    "All Prime Factors in Sorted Order"
   ]
 }
