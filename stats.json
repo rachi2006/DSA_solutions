@@ -1,11 +1,11 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-07-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 14,
+    "easy": 15,
     "medium": 3,
     "hard": 0,
     "basic": 28
@@ -55,7 +55,8 @@
     "GeeksForGeeks_Java_Input/Output": true,
     "GeeksForGeeks_Bitwise_Shift_Operators": true,
     "GeeksForGeeks_Delete_alternate_characters": true,
-    "GeeksForGeeks_All_Prime_Factors_in_Sorted_Order": true
+    "GeeksForGeeks_All_Prime_Factors_in_Sorted_Order": true,
+    "GeeksForGeeks_Array_Traversal_Reverse": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -65,9 +66,10 @@
     "2026-07-24": 5,
     "2026-07-25": 2,
     "2026-07-26": 7,
-    "2026-07-27": 1
+    "2026-07-27": 2
   },
   "todayProblems": [
-    "All Prime Factors in Sorted Order"
+    "All Prime Factors in Sorted Order",
+    "Array Traversal Reverse"
   ]
 }
