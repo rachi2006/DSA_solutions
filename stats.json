@@ -1,11 +1,11 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-07-27",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 3,
     "hard": 0,
     "basic": 29
@@ -57,7 +57,8 @@
     "GeeksForGeeks_Delete_alternate_characters": true,
     "GeeksForGeeks_All_Prime_Factors_in_Sorted_Order": true,
     "GeeksForGeeks_Array_Traversal_Reverse": true,
-    "GeeksForGeeks_Concatenate_and_Reverse": true
+    "GeeksForGeeks_Concatenate_and_Reverse": true,
+    "GeeksForGeeks_Decrement_Array_Values": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -67,11 +68,12 @@
     "2026-07-24": 5,
     "2026-07-25": 2,
     "2026-07-26": 7,
-    "2026-07-27": 3
+    "2026-07-27": 4
   },
   "todayProblems": [
     "All Prime Factors in Sorted Order",
     "Array Traversal Reverse",
-    "Concatenate and Reverse"
+    "Concatenate and Reverse",
+    "Decrement Array Values"
   ]
 }
