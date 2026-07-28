@@ -58,3 +58,4 @@
 | 56 | [Array Traversal Reverse](./GeeksForGeeks/Easy/Array%20Traversal%20Reverse) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal-reverse/1?page=3&category=Java&sortBy=submissions) | Easy | 27 Jul 2026 | 10:06 pm |
 | 57 | [Concatenate and Reverse](./GeeksForGeeks/Basic/Concatenate%20and%20Reverse) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-strings-set-15112/1?page=3&category=Java&sortBy=submissions) | Basic | 27 Jul 2026 | 10:19 pm |
 | 58 | [Decrement Array Values](./GeeksForGeeks/Easy/Decrement%20Array%20Values) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/decrement-array-values/1?page=3&category=Java&sortBy=submissions) | Easy | 27 Jul 2026 | 10:23 pm |
+| 59 | [Deque Traversal](./GeeksForGeeks/Basic/Deque%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/dequeue-traversal/1?page=3&category=Java&sortBy=submissions) | Basic | 28 Jul 2026 | 09:26 pm |
