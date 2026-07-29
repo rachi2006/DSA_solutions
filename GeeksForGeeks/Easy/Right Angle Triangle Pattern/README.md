@@ -8,7 +8,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1?page=1&category=Java&sortBy=submissions)
 
 ## Solved On
-19 Jul 2026 at 09:20 pm
+29 Jul 2026 at 01:27 pm
 
 <h2><a href="https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1?page=1&category=Java&sortBy=submissions">Right Angle Triangle Pattern</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 18px;">Given an integer<strong> n</strong><strong>. </strong>Write a program to print the Right angle triangle wall<strong>. </strong>The length of perpendicular and base is<strong> s.&nbsp;<br>Note:</strong> Print exactly single " " after "<span style="font-size: 18pt;"><strong>*</strong></span>". Print a new line after printing the triangle.</span></p>
 <p><span style="font-size: 18px;"><strong>Example:</strong></span></p>

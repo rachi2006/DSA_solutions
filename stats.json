@@ -1,11 +1,11 @@
 {
-  "totalSolved": 50,
-  "currentStreak": 9,
-  "maxStreak": 9,
-  "lastSyncDate": "2026-07-28",
-  "todayCount": 2,
+  "totalSolved": 51,
+  "currentStreak": 10,
+  "maxStreak": 10,
+  "lastSyncDate": "2026-07-29",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 3,
     "hard": 0,
     "basic": 31
@@ -60,7 +60,8 @@
     "GeeksForGeeks_Concatenate_and_Reverse": true,
     "GeeksForGeeks_Decrement_Array_Values": true,
     "GeeksForGeeks_Deque_Traversal": true,
-    "GeeksForGeeks_Java_Basic_Data_Types": true
+    "GeeksForGeeks_Java_Basic_Data_Types": true,
+    "GeeksForGeeks_Right_Angle_Triangle_Pattern": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -71,10 +72,10 @@
     "2026-07-25": 2,
     "2026-07-26": 7,
     "2026-07-27": 4,
-    "2026-07-28": 2
+    "2026-07-28": 2,
+    "2026-07-29": 1
   },
   "todayProblems": [
-    "Deque Traversal",
-    "Java Basic Data Types"
+    "Right Angle Triangle Pattern"
   ]
 }
