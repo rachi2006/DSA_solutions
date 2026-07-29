@@ -1,14 +1,14 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-07-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 17,
     "medium": 3,
     "hard": 0,
-    "basic": 31
+    "basic": 32
   },
   "syncedProblems": {
     "GeeksForGeeks_Array_Traversal": true,
@@ -61,7 +61,8 @@
     "GeeksForGeeks_Decrement_Array_Values": true,
     "GeeksForGeeks_Deque_Traversal": true,
     "GeeksForGeeks_Java_Basic_Data_Types": true,
-    "GeeksForGeeks_Right_Angle_Triangle_Pattern": true
+    "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
+    "GeeksForGeeks_Java_Operators(Relational)_|_Set_-_2": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -73,9 +74,10 @@
     "2026-07-26": 7,
     "2026-07-27": 4,
     "2026-07-28": 2,
-    "2026-07-29": 1
+    "2026-07-29": 2
   },
   "todayProblems": [
-    "Right Angle Triangle Pattern"
+    "Right Angle Triangle Pattern",
+    "Java Operators(Relational) | Set - 2"
   ]
 }
