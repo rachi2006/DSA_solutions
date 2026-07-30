@@ -64,3 +64,4 @@
 | 62 | [Java loops | Set 1](./GeeksForGeeks/Basic/Java%20loops%20%7C%20Set%201) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-loops-set-11726/1?page=4&category=Java&sortBy=submissions) | Basic | 29 Jul 2026 | 10:43 pm |
 | 63 | [Undirected Graph Cycle](./GeeksForGeeks/Medium/Undirected%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | Medium | 30 Jul 2026 | 03:25 pm |
 | 64 | [Missing in Array](./GeeksForGeeks/Easy/Missing%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&category=Arrays,Java&sortBy=submissions) | Easy | 30 Jul 2026 | 09:46 pm |
+| 65 | [Missing And Repeating](./GeeksForGeeks/Easy/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?page=1&category=Arrays,Java&sortBy=submissions) | Easy | 30 Jul 2026 | 10:08 pm |
