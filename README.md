@@ -66,3 +66,4 @@
 | 64 | [Missing in Array](./GeeksForGeeks/Easy/Missing%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&category=Arrays,Java&sortBy=submissions) | Easy | 30 Jul 2026 | 09:46 pm |
 | 65 | [Missing And Repeating](./GeeksForGeeks/Easy/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?page=1&category=Arrays,Java&sortBy=submissions) | Easy | 30 Jul 2026 | 10:08 pm |
 | 66 | [DFS of Graph](./GeeksForGeeks/Easy/DFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | Easy | 31 Jul 2026 | 09:44 pm |
+| 67 | [Find index](./GeeksForGeeks/Easy/Find%20index) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-index-1614919939--145853/1?page=1&category=python&sortBy=submissions) | Easy | 01 Aug 2026 | 08:32 pm |
