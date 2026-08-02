@@ -68,3 +68,4 @@
 | 66 | [DFS of Graph](./GeeksForGeeks/Easy/DFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | Easy | 31 Jul 2026 | 09:44 pm |
 | 67 | [Find index](./GeeksForGeeks/Easy/Find%20index) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-index-1614919939--145853/1?page=1&category=python&sortBy=submissions) | Easy | 01 Aug 2026 | 08:32 pm |
 | 68 | [Mark Even and Odd - Python](./GeeksForGeeks/Easy/Mark%20Even%20and%20Odd%20-%20Python) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/mark-even-and-odd/1?page=1&category=python&sortBy=submissions) | Easy | 01 Aug 2026 | 08:34 pm |
+| 69 | [Java End-of-file](./Manual/Easy/Java%20End-of-file) | [Manual](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true) | Easy | 02 Aug 2026 | 04:46 pm |

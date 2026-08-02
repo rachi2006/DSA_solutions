@@ -1,11 +1,11 @@
 {
-  "totalSolved": 59,
-  "currentStreak": 13,
-  "maxStreak": 13,
-  "lastSyncDate": "2026-08-01",
-  "todayCount": 2,
+  "totalSolved": 60,
+  "currentStreak": 14,
+  "maxStreak": 14,
+  "lastSyncDate": "2026-08-02",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 4,
     "hard": 0,
     "basic": 33
@@ -69,7 +69,8 @@
     "GeeksForGeeks_Missing_And_Repeating": true,
     "GeeksForGeeks_DFS_of_Graph": true,
     "GeeksForGeeks_Find_index": true,
-    "GeeksForGeeks_Mark_Even_and_Odd_-_Python": true
+    "GeeksForGeeks_Mark_Even_and_Odd_-_Python": true,
+    "Manual_Java_End-of-file": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -84,10 +85,10 @@
     "2026-07-29": 3,
     "2026-07-30": 3,
     "2026-07-31": 1,
-    "2026-08-01": 2
+    "2026-08-01": 2,
+    "2026-08-02": 1
   },
   "todayProblems": [
-    "Find index",
-    "Mark Even and Odd - Python"
+    "Java End-of-file"
   ]
 }
