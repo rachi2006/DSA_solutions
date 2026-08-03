@@ -1,14 +1,14 @@
 {
-  "totalSolved": 61,
-  "currentStreak": 14,
-  "maxStreak": 14,
-  "lastSyncDate": "2026-08-02",
-  "todayCount": 2,
+  "totalSolved": 62,
+  "currentStreak": 15,
+  "maxStreak": 15,
+  "lastSyncDate": "2026-08-03",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 24,
     "medium": 4,
     "hard": 0,
-    "basic": 33
+    "basic": 34
   },
   "syncedProblems": {
     "GeeksForGeeks_Array_Traversal": true,
@@ -71,7 +71,8 @@
     "GeeksForGeeks_Find_index": true,
     "GeeksForGeeks_Mark_Even_and_Odd_-_Python": true,
     "Manual_Java_End-of-file": true,
-    "Manual_Java_Static_Initializer_Block": true
+    "Manual_Java_Static_Initializer_Block": true,
+    "GeeksForGeeks_Java_1-d_and_2-d_Array": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -87,10 +88,10 @@
     "2026-07-30": 3,
     "2026-07-31": 1,
     "2026-08-01": 2,
-    "2026-08-02": 2
+    "2026-08-02": 2,
+    "2026-08-03": 1
   },
   "todayProblems": [
-    "Java End-of-file",
-    "Java Static Initializer Block"
+    "Java 1-d and 2-d Array"
   ]
 }
