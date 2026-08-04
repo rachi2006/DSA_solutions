@@ -73,3 +73,4 @@
 | 71 | [Java 1-d and 2-d Array](./GeeksForGeeks/Basic/Java%201-d%20and%202-d%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-1-d-and-2-d-array2952/1?page=3&category=Java&sortBy=submissions) | Basic | 03 Aug 2026 | 09:31 pm |
 | 72 | [Concatenation of Array](./LeetCode/Easy/Concatenation%20of%20Array) | [LeetCode](https://leetcode.com/problems/concatenation-of-array/) | Easy | 04 Aug 2026 | 06:34 pm |
 | 73 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 04 Aug 2026 | 06:40 pm |
+| 74 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 04 Aug 2026 | 06:50 pm |
