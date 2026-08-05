@@ -75,3 +75,4 @@
 | 73 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 04 Aug 2026 | 06:40 pm |
 | 74 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 04 Aug 2026 | 06:50 pm |
 | 75 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 05 Aug 2026 | 01:29 pm |
+| 76 | [Presentation](./Manual/Easy/Presentation) | [Manual](https://www.codechef.com/START250D/problems/PPT) | Easy | 05 Aug 2026 | 09:25 pm |
