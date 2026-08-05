@@ -78,3 +78,4 @@
 | 76 | [Presentation](./Manual/Easy/Presentation) | [Manual](https://www.codechef.com/START250D/problems/PPT) | Easy | 05 Aug 2026 | 09:25 pm |
 | 77 | [Subscription Cost](./Manual/Easy/Subscription%20Cost) | [Manual](https://www.codechef.com/START250D/problems/SUBCOST7) | Easy | 05 Aug 2026 | 09:26 pm |
 | 78 | [Bishop Moves](./Manual/Medium/Bishop%20Moves) | [Manual](https://www.codechef.com/START250D/problems/BISHOPMV) | Medium | 05 Aug 2026 | 09:28 pm |
+| 79 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 05 Aug 2026 | 09:46 pm |

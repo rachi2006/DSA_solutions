@@ -1,12 +1,12 @@
 {
-  "totalSolved": 69,
+  "totalSolved": 70,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-08-05",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 30,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 34
   },
@@ -79,7 +79,8 @@
     "LeetCode_Two_Sum": true,
     "Manual_Presentation": true,
     "Manual_Subscription_Cost": true,
-    "Manual_Bishop_Moves": true
+    "Manual_Bishop_Moves": true,
+    "LeetCode_Reverse_Integer": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -98,12 +99,13 @@
     "2026-08-02": 2,
     "2026-08-03": 1,
     "2026-08-04": 3,
-    "2026-08-05": 4
+    "2026-08-05": 5
   },
   "todayProblems": [
     "Two Sum",
     "Presentation",
     "Subscription Cost",
-    "Bishop Moves"
+    "Bishop Moves",
+    "Reverse Integer"
   ]
 }
