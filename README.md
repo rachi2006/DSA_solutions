@@ -79,3 +79,4 @@
 | 77 | [Subscription Cost](./Manual/Easy/Subscription%20Cost) | [Manual](https://www.codechef.com/START250D/problems/SUBCOST7) | Easy | 05 Aug 2026 | 09:26 pm |
 | 78 | [Bishop Moves](./Manual/Medium/Bishop%20Moves) | [Manual](https://www.codechef.com/START250D/problems/BISHOPMV) | Medium | 05 Aug 2026 | 09:28 pm |
 | 79 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 05 Aug 2026 | 09:46 pm |
+| 80 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 06 Aug 2026 | 11:32 pm |
