@@ -80,3 +80,4 @@
 | 78 | [Bishop Moves](./Manual/Medium/Bishop%20Moves) | [Manual](https://www.codechef.com/START250D/problems/BISHOPMV) | Medium | 05 Aug 2026 | 09:28 pm |
 | 79 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 05 Aug 2026 | 09:46 pm |
 | 80 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 06 Aug 2026 | 11:32 pm |
+| 81 | [Java Exception Handling](./GeeksForGeeks/Medium/Java%20Exception%20Handling) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-exception-handling-1606978567/1?page=3&category=Java&sortBy=submissions) | Medium | 06 Aug 2026 | 11:38 pm |
