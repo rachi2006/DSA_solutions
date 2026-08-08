@@ -83,3 +83,4 @@
 | 81 | [Java Exception Handling](./GeeksForGeeks/Medium/Java%20Exception%20Handling) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-exception-handling-1606978567/1?page=3&category=Java&sortBy=submissions) | Medium | 06 Aug 2026 | 11:38 pm |
 | 82 | [Check the status - Python](./GeeksForGeeks/Easy/Check%20the%20status%20-%20Python) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-the-status/1?page=1&category=python&sortBy=submissions) | Easy | 08 Aug 2026 | 07:57 am |
 | 83 | [Combine Two Tables](./LeetCode/Easy/Combine%20Two%20Tables) | [LeetCode](https://leetcode.com/problems/combine-two-tables/) | Easy | 08 Aug 2026 | 11:13 am |
+| 84 | [Employees Earning More Than Their Managers](./LeetCode/Easy/Employees%20Earning%20More%20Than%20Their%20Managers) | [LeetCode](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | 08 Aug 2026 | 11:21 am |

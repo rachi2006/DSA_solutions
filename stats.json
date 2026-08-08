@@ -1,11 +1,11 @@
 {
-  "totalSolved": 74,
+  "totalSolved": 75,
   "currentStreak": 1,
   "maxStreak": 18,
   "lastSyncDate": "2026-08-08",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 32,
+    "easy": 33,
     "medium": 7,
     "hard": 1,
     "basic": 34
@@ -84,7 +84,8 @@
     "GeeksForGeeks_Subarrays_with_Sum_in_Range": true,
     "GeeksForGeeks_Java_Exception_Handling": true,
     "GeeksForGeeks_Check_the_status_-_Python": true,
-    "LeetCode_Combine_Two_Tables": true
+    "LeetCode_Combine_Two_Tables": true,
+    "LeetCode_Employees_Earning_More_Than_Their_Managers": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -105,10 +106,11 @@
     "2026-08-04": 3,
     "2026-08-05": 5,
     "2026-08-06": 2,
-    "2026-08-08": 2
+    "2026-08-08": 3
   },
   "todayProblems": [
     "Check the status - Python",
-    "Combine Two Tables"
+    "Combine Two Tables",
+    "Employees Earning More Than Their Managers"
   ]
 }
