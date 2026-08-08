@@ -1,11 +1,11 @@
 {
-  "totalSolved": 72,
-  "currentStreak": 18,
+  "totalSolved": 73,
+  "currentStreak": 1,
   "maxStreak": 18,
-  "lastSyncDate": "2026-08-06",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-08",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 30,
+    "easy": 31,
     "medium": 7,
     "hard": 1,
     "basic": 34
@@ -82,7 +82,8 @@
     "Manual_Bishop_Moves": true,
     "LeetCode_Reverse_Integer": true,
     "GeeksForGeeks_Subarrays_with_Sum_in_Range": true,
-    "GeeksForGeeks_Java_Exception_Handling": true
+    "GeeksForGeeks_Java_Exception_Handling": true,
+    "GeeksForGeeks_Check_the_status_-_Python": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -102,10 +103,10 @@
     "2026-08-03": 1,
     "2026-08-04": 3,
     "2026-08-05": 5,
-    "2026-08-06": 2
+    "2026-08-06": 2,
+    "2026-08-08": 1
   },
   "todayProblems": [
-    "Subarrays with Sum in Range",
-    "Java Exception Handling"
+    "Check the status - Python"
   ]
 }
