@@ -1,11 +1,11 @@
 {
-  "totalSolved": 77,
-  "currentStreak": 3,
+  "totalSolved": 78,
+  "currentStreak": 4,
   "maxStreak": 18,
-  "lastSyncDate": "2026-08-10",
+  "lastSyncDate": "2026-08-11",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 35,
+    "easy": 36,
     "medium": 7,
     "hard": 1,
     "basic": 34
@@ -87,7 +87,8 @@
     "LeetCode_Combine_Two_Tables": true,
     "LeetCode_Employees_Earning_More_Than_Their_Managers": true,
     "LeetCode_Single_Number": true,
-    "LeetCode_Big_Countries": true
+    "LeetCode_Big_Countries": true,
+    "GeeksForGeeks_Duplicates_in_a_Limited_Range_Array": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -110,9 +111,10 @@
     "2026-08-06": 2,
     "2026-08-08": 3,
     "2026-08-09": 1,
-    "2026-08-10": 1
+    "2026-08-10": 1,
+    "2026-08-11": 1
   },
   "todayProblems": [
-    "Big Countries"
+    "Duplicates in a Limited Range Array"
   ]
 }

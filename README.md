@@ -86,3 +86,4 @@
 | 84 | [Employees Earning More Than Their Managers](./LeetCode/Easy/Employees%20Earning%20More%20Than%20Their%20Managers) | [LeetCode](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | 08 Aug 2026 | 11:21 am |
 | 85 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 09 Aug 2026 | 03:34 pm |
 | 86 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 10 Aug 2026 | 11:46 pm |
+| 87 | [Duplicates in a Limited Range Array](./GeeksForGeeks/Easy/Duplicates%20in%20a%20Limited%20Range%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&category=Arrays&sortBy=submissions) | Easy | 11 Aug 2026 | 11:07 pm |
