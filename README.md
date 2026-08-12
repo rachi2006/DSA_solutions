@@ -88,3 +88,4 @@
 | 86 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 10 Aug 2026 | 11:46 pm |
 | 87 | [Duplicates in a Limited Range Array](./GeeksForGeeks/Easy/Duplicates%20in%20a%20Limited%20Range%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&category=Arrays&sortBy=submissions) | Easy | 11 Aug 2026 | 11:07 pm |
 | 88 | [Duplicate Emails](./LeetCode/Easy/Duplicate%20Emails) | [LeetCode](https://leetcode.com/problems/duplicate-emails/) | Easy | 12 Aug 2026 | 09:34 am |
+| 89 | [71A - Way Too Long Words](./Codeforces/basic/71A%20-%20Way%20Too%20Long%20Words) | [Codeforces](https://codeforces.com/problemset/problem/71/A) | basic | 12 Aug 2026 | 10:09 am |

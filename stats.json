@@ -1,14 +1,14 @@
 {
-  "totalSolved": 79,
+  "totalSolved": 80,
   "currentStreak": 5,
   "maxStreak": 18,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 37,
     "medium": 7,
     "hard": 1,
-    "basic": 34
+    "basic": 35
   },
   "syncedProblems": {
     "GeeksForGeeks_Array_Traversal": true,
@@ -89,7 +89,8 @@
     "LeetCode_Single_Number": true,
     "LeetCode_Big_Countries": true,
     "GeeksForGeeks_Duplicates_in_a_Limited_Range_Array": true,
-    "LeetCode_Duplicate_Emails": true
+    "LeetCode_Duplicate_Emails": true,
+    "Codeforces_71A_-_Way_Too_Long_Words": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -114,9 +115,10 @@
     "2026-08-09": 1,
     "2026-08-10": 1,
     "2026-08-11": 1,
-    "2026-08-12": 1
+    "2026-08-12": 2
   },
   "todayProblems": [
-    "Duplicate Emails"
+    "Duplicate Emails",
+    "71A - Way Too Long Words"
   ]
 }
