@@ -94,3 +94,4 @@
 | 92 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&category=Arrays&sortBy=submissions) | Basic | 12 Aug 2026 | 07:15 pm |
 | 93 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 13 Aug 2026 | 07:56 pm |
 | 94 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1?page=1&category=Arrays&sortBy=submissions) | Basic | 14 Aug 2026 | 09:59 pm |
+| 95 | [Peak element](./GeeksForGeeks/Medium/Peak%20element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/peak-element/1?page=1&category=Arrays&sortBy=submissions) | Medium | 14 Aug 2026 | 10:14 pm |
