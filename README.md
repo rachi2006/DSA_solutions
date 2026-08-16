@@ -96,3 +96,4 @@
 | 94 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1?page=1&category=Arrays&sortBy=submissions) | Basic | 14 Aug 2026 | 09:59 pm |
 | 95 | [Peak element](./GeeksForGeeks/Medium/Peak%20element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/peak-element/1?page=1&category=Arrays&sortBy=submissions) | Medium | 14 Aug 2026 | 10:14 pm |
 | 96 | [Kth Smallest](./GeeksForGeeks/Medium/Kth%20Smallest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?page=1&category=Sorting&sortBy=submissions) | Medium | 15 Aug 2026 | 07:38 pm |
+| 97 | [Rotate Array](./GeeksForGeeks/Medium/Rotate%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1?page=1&category=Arrays&sortBy=submissions) | Medium | 16 Aug 2026 | 11:05 pm |
