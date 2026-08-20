@@ -98,3 +98,4 @@
 | 96 | [Kth Smallest](./GeeksForGeeks/Medium/Kth%20Smallest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?page=1&category=Sorting&sortBy=submissions) | Medium | 15 Aug 2026 | 07:38 pm |
 | 97 | [Rotate Array](./GeeksForGeeks/Medium/Rotate%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1?page=1&category=Arrays&sortBy=submissions) | Medium | 16 Aug 2026 | 11:05 pm |
 | 98 | [Quick Sort](./GeeksForGeeks/Medium/Quick%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/quick-sort/1) | Medium | 19 Aug 2026 | 11:49 pm |
+| 99 | [Pair With Difference](./GeeksForGeeks/Easy/Pair%20With%20Difference) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1) | Easy | 20 Aug 2026 | 11:07 pm |
