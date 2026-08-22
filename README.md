@@ -99,3 +99,4 @@
 | 97 | [Rotate Array](./GeeksForGeeks/Medium/Rotate%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1?page=1&category=Arrays&sortBy=submissions) | Medium | 16 Aug 2026 | 11:05 pm |
 | 98 | [Quick Sort](./GeeksForGeeks/Medium/Quick%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/quick-sort/1) | Medium | 19 Aug 2026 | 11:49 pm |
 | 99 | [Pair With Difference](./GeeksForGeeks/Easy/Pair%20With%20Difference) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1) | Easy | 20 Aug 2026 | 11:07 pm |
+| 100 | [Strings Rotations of Each Other](./GeeksForGeeks/Medium/Strings%20Rotations%20of%20Each%20Other) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1) | Medium | 22 Aug 2026 | 09:16 pm |
