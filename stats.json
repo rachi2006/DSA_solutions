@@ -1,11 +1,11 @@
 {
-  "totalSolved": 91,
+  "totalSolved": 92,
   "currentStreak": 1,
   "maxStreak": 18,
-  "lastSyncDate": "2026-08-22",
+  "lastSyncDate": "2026-08-26",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 41,
+    "easy": 42,
     "medium": 12,
     "hard": 1,
     "basic": 37
@@ -101,7 +101,8 @@
     "GeeksForGeeks_Rotate_Array": true,
     "GeeksForGeeks_Quick_Sort": true,
     "GeeksForGeeks_Pair_With_Difference": true,
-    "GeeksForGeeks_Strings_Rotations_of_Each_Other": true
+    "GeeksForGeeks_Strings_Rotations_of_Each_Other": true,
+    "Manual_Posh_Shopping": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -133,9 +134,10 @@
     "2026-08-16": 1,
     "2026-08-19": 1,
     "2026-08-20": 1,
-    "2026-08-22": 1
+    "2026-08-22": 1,
+    "2026-08-26": 1
   },
   "todayProblems": [
-    "Strings Rotations of Each Other"
+    "Posh Shopping"
   ]
 }
