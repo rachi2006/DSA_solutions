@@ -103,3 +103,4 @@
 | 101 | [Posh Shopping](./Manual/Easy/Posh%20Shopping) | [Manual](https://www.codechef.com/START253D/problems/POSHOP) | Easy | 26 Aug 2026 | 09:48 pm |
 | 102 | [Regular Cleaning](./Manual/Easy/Regular%20Cleaning) | [Manual](https://www.codechef.com/START253D/problems/REGCLN) | Easy | 26 Aug 2026 | 09:53 pm |
 | 103 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 31 Aug 2026 | 09:17 pm |
+| 104 | [Binary Search](./GeeksForGeeks/Basic/Binary%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) | Basic | 04 Sept 2026 | 12:03 pm |
