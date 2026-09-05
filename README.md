@@ -106,3 +106,4 @@
 | 104 | [Binary Search](./GeeksForGeeks/Basic/Binary%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) | Basic | 04 Sept 2026 | 12:03 pm |
 | 105 | [All Elements in Two Binary Search Trees](./LeetCode/Medium/All%20Elements%20in%20Two%20Binary%20Search%20Trees) | [LeetCode](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | Medium | 04 Sept 2026 | 12:06 pm |
 | 106 | [While loop in Python](./GeeksForGeeks/Easy/While%20loop%20in%20Python) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/while-loop-in-python/1) | Easy | 05 Sept 2026 | 03:42 pm |
+| 107 | [1 to n Without Loops](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 05 Sept 2026 | 03:47 pm |
