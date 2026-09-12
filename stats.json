@@ -1,12 +1,12 @@
 {
-  "totalSolved": 99,
+  "totalSolved": 100,
   "currentStreak": 1,
   "maxStreak": 18,
-  "lastSyncDate": "2026-09-07",
+  "lastSyncDate": "2026-09-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 13,
+    "medium": 14,
     "hard": 1,
     "basic": 39
   },
@@ -109,7 +109,8 @@
     "LeetCode_All_Elements_in_Two_Binary_Search_Trees": true,
     "GeeksForGeeks_While_loop_in_Python": true,
     "GeeksForGeeks_1_to_n_Without_Loops": true,
-    "LeetCode_Search_Insert_Position": true
+    "LeetCode_Search_Insert_Position": true,
+    "LeetCode_String_to_Integer_(atoi)": true
   },
   "activityHistory": {
     "2026-07-20": 3,
@@ -146,9 +147,10 @@
     "2026-08-31": 1,
     "2026-09-04": 2,
     "2026-09-05": 2,
-    "2026-09-07": 1
+    "2026-09-07": 1,
+    "2026-09-13": 1
   },
   "todayProblems": [
-    "Search Insert Position"
+    "String to Integer (atoi)"
   ]
 }
