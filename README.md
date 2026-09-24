@@ -111,3 +111,4 @@
 | 109 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 13 Sept 2026 | 12:08 am |
 | 110 | [Test if tuple is distinct](./GeeksForGeeks/Easy/Test%20if%20tuple%20is%20distinct) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/test-if-tuple-is-distinct/1) | Easy | 19 Sept 2026 | 04:31 pm |
 | 111 | [String Functions - II - Python](./GeeksForGeeks/Easy/String%20Functions%20-%20II%20-%20Python) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/string-functions-ii/1) | Easy | 19 Sept 2026 | 04:34 pm |
+| 112 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 24 Sept 2026 | 11:23 pm |
