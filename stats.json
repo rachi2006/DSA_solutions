@@ -1,27 +1,29 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 1,
-    "hard": 0,
+    "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
     "GeeksForGeeks_Jumping_through_While_-_Python": true,
     "GeeksForGeeks_Test_if_tuple_is_distinct": true,
     "GeeksForGeeks_String_Functions_-_II_-_Python": true,
-    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
+    "LeetCode_Median_of_Two_Sorted_Arrays": true
   },
   "activityHistory": {
     "2026-09-16": 1,
     "2026-09-19": 2,
-    "2026-09-24": 1
+    "2026-09-24": 2
   },
   "todayProblems": [
-    "Longest Substring Without Repeating Characters"
+    "Longest Substring Without Repeating Characters",
+    "Median of Two Sorted Arrays"
   ]
 }
