@@ -113,3 +113,4 @@
 | 111 | [String Functions - II - Python](./GeeksForGeeks/Easy/String%20Functions%20-%20II%20-%20Python) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/string-functions-ii/1) | Easy | 19 Sept 2026 | 04:34 pm |
 | 112 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 24 Sept 2026 | 11:23 pm |
 | 113 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 24 Sept 2026 | 11:25 pm |
+| 114 | [Consecutive Numbers](./LeetCode/Medium/Consecutive%20Numbers) | [LeetCode](https://leetcode.com/problems/consecutive-numbers/) | Medium | 11 Oct 2026 | 07:04 am |
